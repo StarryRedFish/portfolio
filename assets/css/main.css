@@ -2905,6 +2905,7 @@ input, select, textarea {
 
 			.main.style2 ul.major-icons li .icon {
 				border-color: #ffffff;
+				background-color: rgba(255, 255, 255, 0.35);
 			}
 
 			.main.style2 .icon.major {
@@ -2918,7 +2919,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #0f0f0f 5%, #494c52 30%, #727a87);
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #0c0c0c 5%, #202122 30%, #191a1a);
 		/* background-image: url("images/overlay1.png"), url("../../images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg"); */
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
